@@ -14,7 +14,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <properties>
-        <groovyVersion>2.4.11</groovyVersion>
+        <groovyVersion>2.4.21</groovyVersion>
     </properties>
     <dependencies>
         <dependency>
